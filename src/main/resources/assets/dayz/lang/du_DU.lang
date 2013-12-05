@@ -1,0 +1,88 @@
+#DayZ Language File
+item.drinkCanEmpty.empty_beer.name=Lege Bier 
+item.drinkCanEmpty.empty_lemon_soda.name=Lege Lemoen Sap
+item.drinkCanEmpty.empty_cola.name=Lege Cola
+item.drinkCanEmpty.empty_energy_drink.name=Lege Energy Drink
+item.drinkCanEmpty.empty_orange_soda.name=Lege SinasAppel Sap
+
+item.drinkCanned.beer.name=Bier
+item.drinkCanned.lemon_soda.name=Lemoen Sap
+item.drinkCanned.cola.name=Cola
+item.drinkCanned.energy_drink.name=Energy Drink
+item.drinkCanned.orange_soda.name=SinasAppel Sap
+
+item.foodCanEmpty.empty_canned_beans.name=Leeg Ingeblikte Bonen
+item.foodCanEmpty.empty_canned_soup.name=leeg Ingeblikte Soep
+item.foodCanEmpty.empty_canned_pasta.name=leeg Ingeblikte Pasta
+item.foodCanEmpty.empty_canned_fish.name=leeg Ingeblikte Vis
+item.foodCanEmpty.empty_canned_pickles.name=leeg Ingeblikte Pickles
+item.foodCanEmpty.empty_canned_fruit.name=leeg Ingeblikte Fruit
+
+item.foodCanned.canned_beans.name=Ingeblikte Bonen
+item.foodCanned.canned_soup.name=Ingeblikte Soep
+item.foodCanned.canned_pasta.name=Ingeblikte Pasta
+item.foodCanned.canned_fish.name=Ingeblikte Vis
+item.foodCanned.canned_pickles.name=Ingeblikte Pickles
+item.foodCanned.canned_fruit.name=Ingeblikte Fruit
+
+item.gunAk74u.name=Ak-74u
+item.gunMakarov.name=Makarov
+item.gunRemington.name=Remington
+item.gunLeeEnfield.name=Lee Enfield
+item.gunGlock17.name=Glock 17
+item.gunDoubleBarreledShotgun.name=Double-barreled Shotgun
+item.gunUsp.name=USP
+item.gunAk74.name=Ak-74
+
+item.ammoAk74u.name=Ak-74u Magazijn
+item.ammoMakarov.name=Makarov Magazijn
+item.ammoRemington.name=Remington Shells
+item.ammoLeeEnfield.name=Lee Enfield Magazijn
+item.ammoGlock17.name=Glock 17 Magazijn
+item.ammoDoubleBarreledShotgun.name=Double-barreled Shotgun Shells
+item.ammoUsp.name=USP Magazijn
+item.ammoAk74.name=Ak-74 Magazijn
+
+item.itemMatches.name=Lucifer
+item.healBandage.name=Bandage
+item.healBandage.description=Stopt bloeden
+item.healAntibiotics.name=Antibiotica
+item.healAntibiotics.description=Stopt Infectie
+item.healBloodbag.name=BloodBag
+item.healBloodbag.description=Kan niet op jezelf gebruikt worden
+item.camoHelmet.name=Camouflage Helm
+item.camoChest.name=Camouflage Shirt
+item.camoLegs.name=Camouflage Broek
+item.camoBoots.name=Camouflage Schoenen
+
+item.drinkWhiskeyBottle.name=Fles van Whiskey
+item.drinkCiderBottle.name=Fles van Cider
+item.drinkVodkaBottle.name=Fles van Vodka
+
+item.meleeBaseballBat.name=Baseball Bat
+item.meleeBaseballBatNailed.name=Nailed Baseball Bat
+item.meleePlank.name=Plank
+item.meleePlankNailed.name=Nailed Plank
+item.meleePipe.name=Steel Pipe
+item.meleeCrowbar.name=Crowbar
+item.meleeMachete.name=Machete
+
+tile.barbedWire.name=Barbed Wire
+tile.chestLoot.name=Loot Chest
+tile.chainFence.name=Chain-link Fence
+tile.sandbagBlock.name=Sandbags
+tile.nailBlock.name=Nails
+
+thirst.replentish=Ahh, veel beter...
+thirst.thirdwarning=Ik moet snel water vinden...
+thirst.secondwarning=Ik heb veel dorst nu...
+thirst.firstwarning=Mijn mond voelt droog...
+
+entity.Crawler.name=Kruiper
+entity.DayZZombie.name=Zombie
+generator.DAYZBASE=Day Z Orgineel
+generator.DAYZSNOW=Day Z Sneeuw
+itemGroup.creativeTabDayZ=Day Z
+death.attack.bleedOut=%1$s verloor teveel bloed
+death.attack.zombieInfection=%1$s werd een zombie
+death.attack.dehydration=%1$s ging dood door droogte
